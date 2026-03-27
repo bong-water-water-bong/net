@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/net-portrait.png" width="280" alt="net ai"/>
+<img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/net.svg" alt="net" width="200">
 
 # net
 
